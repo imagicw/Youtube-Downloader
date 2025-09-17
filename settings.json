@@ -1,0 +1,8 @@
+{
+    "browser": "chrome",
+    "interval_seconds": 600,
+    "max_resolution": 1080,
+    "video_format": "mp4",
+    "audio_format": "m4a",
+    "playlist_as": "audio"
+}
