@@ -26,7 +26,12 @@
    source .venv/bin/activate
    ```
 
-3. **运行程序**:
+3. **安装依赖**
+   ```bash
+   pip instalL -r requirements.txt
+   ```
+
+4. **运行程序**:
    ```bash
    python download_gui.py
    ```
